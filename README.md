@@ -19,7 +19,8 @@ Not ready to eat? Fridge Friend also has helpful suggestions for other ways to p
 
 ![Main Image](https://user-images.githubusercontent.com/76915344/117237242-80d6fd80-adf8-11eb-9afc-c7c0b906d200.PNG)
 **Fully responsive navigation bar and side bar. The recipe component is also fully responsive and will display 1, 2, 3, or 4 recipe cards depending on the screen size. All recipe cards include basic information about the recipe and a link to the source webpage.** 
-#
+### IMPORTANT
+A custom API key will need to be generated from https://developer.edamam.com/edamam-recipe-api to interact with the API.
 
 ![About-Recycling](https://user-images.githubusercontent.com/76915344/117237247-83395780-adf8-11eb-8ad1-e33b265f1a23.PNG)
 **Info sections with customizable data and react-scroll for easy and smooth crolling around the main page.**  
