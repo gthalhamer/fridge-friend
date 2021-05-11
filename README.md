@@ -23,7 +23,7 @@ Not ready to eat? Fridge Friend also has helpful suggestions for other ways to p
 A custom API key will need to be generated from https://developer.edamam.com/edamam-recipe-api to interact with the API.
 
 ![About-Recycling](https://user-images.githubusercontent.com/76915344/117237247-83395780-adf8-11eb-8ad1-e33b265f1a23.PNG)
-**Info sections with customizable data and react-scroll for easy and smooth crolling around the main page.**  
+**Info sections with customizable data and react-scroll for easy and smooth scrolling around the main page.**  
 #
 
 ![Services-Footer](https://user-images.githubusercontent.com/76915344/117237252-87fe0b80-adf8-11eb-87be-ef38d4b3c9b3.PNG)
