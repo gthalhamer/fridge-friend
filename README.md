@@ -2,6 +2,8 @@
 
 Fridge Friend is a recipe search React app which utilizes styled components and the Edamam recipe search API. This app is fully responsive.
 
+**Website link: https://gthalhamer.github.io/fridge-friend/**
+
 ## Motivation
 
 After completing the Codecademy Web Development Career Path, this application serves as a "proof of knowledge" of the skills I gained during my course of study.
@@ -32,3 +34,5 @@ A custom API key will need to be generated from https://developer.edamam.com/eda
 
 ![Signin](https://user-images.githubusercontent.com/76915344/117237256-8a606580-adf8-11eb-818a-dc787cef8ad6.PNG)
 **Independent sign in page for future features.**
+
+**Website link: https://gthalhamer.github.io/fridge-friend/**
