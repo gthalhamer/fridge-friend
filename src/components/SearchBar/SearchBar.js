@@ -3,8 +3,8 @@ import {SearchContainer, SearchBg, SearchContent, SearchH1, SearchWrapper, Form,
 
 const SearchBar = ({setRecipes}) => {
 
-    const apiKey = 'GET YOUR OWN';
-    const appId = 'GET YOUR OWN';
+    const apiKey = '5a8a889d5117f74390a49994e9f908e8';
+    const appId = 'afd93a1d';
 
     const [search, setSearch] = useState('');
     const [query, setQuery] = useState('');
