@@ -57,7 +57,7 @@ export const RecipeCard = styled.div`
 
     @media screen and (max-width: 800px) {
         height: 450px;
-        width: 450px;
+        width: 1fr;
     }
 `;
 

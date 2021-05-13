@@ -41,7 +41,7 @@ export const SearchBg = styled.div`
 
 export const SearchContent = styled.div`
     z-index: 3;
-    max-width: 1200px;
+    max-width: 1500px;
     position: absolute;
     padding: 0px 24px;
     display: flex;
@@ -83,7 +83,8 @@ export const ArrowRight = styled(MdKeyboardArrowRight)`
 
 export const SearchIcon = styled(ImSearch)`
     color: #567a22;
-    font-size: 20px
+    font-size: 20px;
+    justify-content: right;
 `;
 
 export const Form = styled.form`
@@ -94,7 +95,7 @@ export const Form = styled.form`
     background-color: #fff;
     margin-top: 5px;
     margin-bottom: 10px;
-    width: 30rem;
+    width: 20rem;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     padding: 2rem;
     border: 1px solid #fff;
@@ -107,8 +108,8 @@ export const Input = styled.input`
   font-size: 18px;
   line-height: 1;
   background-color: transparent;
-  width: 100%;
-  align-items: center;
+  width: 20rem;
+  align-items: left;
   border: none;
   color: #010606;
 
