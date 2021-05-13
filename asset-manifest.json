@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fridge-friend/static/css/main.ab955d0a.chunk.css",
-    "main.js": "/fridge-friend/static/js/main.f71bfea0.chunk.js",
-    "main.js.map": "/fridge-friend/static/js/main.f71bfea0.chunk.js.map",
+    "main.js": "/fridge-friend/static/js/main.54e74d98.chunk.js",
+    "main.js.map": "/fridge-friend/static/js/main.54e74d98.chunk.js.map",
     "runtime-main.js": "/fridge-friend/static/js/runtime-main.57c7ba77.js",
     "runtime-main.js.map": "/fridge-friend/static/js/runtime-main.57c7ba77.js.map",
     "static/js/2.6ff1ab70.chunk.js": "/fridge-friend/static/js/2.6ff1ab70.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.57c7ba77.js",
     "static/js/2.6ff1ab70.chunk.js",
     "static/css/main.ab955d0a.chunk.css",
-    "static/js/main.f71bfea0.chunk.js"
+    "static/js/main.54e74d98.chunk.js"
   ]
 }
