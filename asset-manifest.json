@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fridge-friend/static/css/main.ab955d0a.chunk.css",
+    "main.js": "/fridge-friend/static/js/main.f71bfea0.chunk.js",
+    "main.js.map": "/fridge-friend/static/js/main.f71bfea0.chunk.js.map",
+    "runtime-main.js": "/fridge-friend/static/js/runtime-main.57c7ba77.js",
+    "runtime-main.js.map": "/fridge-friend/static/js/runtime-main.57c7ba77.js.map",
+    "static/js/2.6ff1ab70.chunk.js": "/fridge-friend/static/js/2.6ff1ab70.chunk.js",
+    "static/js/2.6ff1ab70.chunk.js.map": "/fridge-friend/static/js/2.6ff1ab70.chunk.js.map",
+    "index.html": "/fridge-friend/index.html",
+    "static/css/main.ab955d0a.chunk.css.map": "/fridge-friend/static/css/main.ab955d0a.chunk.css.map",
+    "static/js/2.6ff1ab70.chunk.js.LICENSE.txt": "/fridge-friend/static/js/2.6ff1ab70.chunk.js.LICENSE.txt",
+    "static/media/background_img1.b4de5b78.png": "/fridge-friend/static/media/background_img1.b4de5b78.png",
+    "static/media/compost_200.74f490c0.png": "/fridge-friend/static/media/compost_200.74f490c0.png",
+    "static/media/craft_200.df35456a.png": "/fridge-friend/static/media/craft_200.df35456a.png",
+    "static/media/donate_200.d108a536.png": "/fridge-friend/static/media/donate_200.d108a536.png",
+    "static/media/garbage.b1cad566.png": "/fridge-friend/static/media/garbage.b1cad566.png",
+    "static/media/shopping_line.4a06c074.png": "/fridge-friend/static/media/shopping_line.4a06c074.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57c7ba77.js",
+    "static/js/2.6ff1ab70.chunk.js",
+    "static/css/main.ab955d0a.chunk.css",
+    "static/js/main.f71bfea0.chunk.js"
+  ]
+}
